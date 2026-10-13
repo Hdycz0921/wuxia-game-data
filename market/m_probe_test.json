@@ -1,1 +1,1 @@
-{"id":"m_probe_test","item":{"id":"eq_probe","name":"测试剑","slot":"weapon","tier":"epic","type":"equipment","affixes":[{"key":"atk","value":12}]},"sellerUid":"u_probe","sellerName":"探针","price":1000,"status":"open","ts":1791883667523,"buyerUid":"","buyerName":"","claimed":false}
+{"id":"m_probe_test","item":{"id":"eq_probe","name":"测试剑","slot":"weapon","tier":"epic","type":"equipment","affixes":[{"key":"atk","value":12}]},"sellerUid":"u_probe","sellerName":"探针","price":1000,"status":"sold","ts":1791883667523,"buyerUid":"u_buyer","buyerName":"","claimed":false}
